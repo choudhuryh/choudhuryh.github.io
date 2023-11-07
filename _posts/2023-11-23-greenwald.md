@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Greenwald Density Limit
-date: 2023-11-77 16:34:00-0400
+date: 2023-11-7 16:34:00-0400
 description: an example of a blog post with some math
 tags: 
 categories: 
