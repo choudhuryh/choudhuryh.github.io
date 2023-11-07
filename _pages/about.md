@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD Candidate, Columbia University</a> 
 
 profile:
   align: right
   image: prof_pic.jpg  # change to any image name
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: >   # use <p> for plain text and </p> to close it 
+
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,7 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
+Research interests:
+Climate Change, Fusion Energy, Magnetic Confinement, Tokamaks, Disruption Mitigation, Runaway Electrons
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
