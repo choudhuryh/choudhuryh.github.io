@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Fusion Stuff # blog_name will be displayed in your blog page
+blog_nav_title: Fusion Stuff # your blog must have a title for it to be displayed in the nav bar
+blog_description: A newsletter about energy, fusion, and other stuff.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -130,7 +130,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false # change later, set to False in Nov 2023
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -148,7 +148,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: FusionStuff # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
