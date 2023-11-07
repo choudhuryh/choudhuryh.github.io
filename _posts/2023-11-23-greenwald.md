@@ -19,3 +19,6 @@ n_g = \frac{I_p}{\pi a^2}
 going above this limit results in your tokamak exploding!
 
 ![Alt text](../assets/img/2.jpg)
+
+
+![Alt text](image.png)
