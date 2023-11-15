@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://choudhuryh.github.io/sitemap.xml
+Sitemap: harichoudhury.com/sitemap.xml
