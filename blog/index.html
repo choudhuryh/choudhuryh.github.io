@@ -13,6 +13,23 @@ pagination:
     after: 3  # The number of links after the current page
 ---
 
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/Fusion_Stuff"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/Fusion_Stuff', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email/refer/Fusion_Stuff" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
+
+
 <div class="post">
 
   {% assign blog_name_size = site.blog_name | size %}
