@@ -10,6 +10,20 @@ email: hari.c@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi
 footer_text: >
+  <form
+  action="https://buttondown.email/api/emails/embed-subscribe/Fusion_Stuff"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/Fusion_Stuff', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe to Fusion Stuff" />
+ 
+</form>
+  
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
