@@ -16,5 +16,10 @@ or like
 n_g = \frac{I_p}{\pi a^2}
 \end{equation}
 
+\begin{equation}
+\label{eq:plasma_beta}
+\beta = \frac{p}{B^2/2\mu_0}
+\end{equation}
+
 going above this limit results in your tokamak exploding!
 
